@@ -1,0 +1,21 @@
+#puzzle-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    width: 40vw;
+    margin: auto;
+  }
+  
+  .puzzle-piece {
+    padding-bottom: 100%;
+    
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  #images {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Zaktualizowane na 4 kolumny */
+    gap: 10px;
+  }
+  

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/leaflet"
+		},
+		{
+			"path": "../../../Downloads/d3-d3-148ce5a"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LAB3"
+	}
+}
